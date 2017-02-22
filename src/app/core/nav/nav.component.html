@@ -1,0 +1,10 @@
+<header class="mdl-layout__header">
+  <div class="mdl-layout__header-row">
+    <a class="md-title-icon" href="http://angular.io" target="_blank"><i></i></a>
+    <span class="mdl-layout-title logo">Dreamer</span>
+    <a *ngFor="let item of menuItems" [routerLink]="item.link" class="nav-link btn" routerLinkActive="router-link-active" href="">{{item.caption}}</a>
+  </div>
+  <div class="mdl-navigation">
+
+  </div>
+</header>
