@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c862ce62-f879-425e-86fd-0f470c1dc25b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dreamer/src/app/app.component.css" afterPath="$PROJECT_DIR$/dreamer/src/app/app.component.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dreamer/src/app/app.component.html" afterPath="$PROJECT_DIR$/dreamer/src/app/app.component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dreamer/src/app/app.component.ts" afterPath="$PROJECT_DIR$/dreamer/src/app/app.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dreamer/src/app/app.module.ts" afterPath="$PROJECT_DIR$/dreamer/src/app/app.module.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dreamer/src/index.html" afterPath="$PROJECT_DIR$/dreamer/src/index.html" />
-    </list>
+    <list default="true" id="c862ce62-f879-425e-86fd-0f470c1dc25b" name="Default" comment="" />
     <ignored path="Dreamer.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -408,12 +402,20 @@
       <updated>1487493716945</updated>
       <workItem from="1487493718110" duration="27733000" />
       <workItem from="1487746202497" duration="99000" />
-      <workItem from="1487746318690" duration="550000" />
+      <workItem from="1487746318690" duration="1735000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1487747239563</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1487747239563</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28382000" />
+    <option name="totallyTimeSpent" value="29567000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -422,6 +424,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24920969" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript Compiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32864866" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -448,6 +451,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
